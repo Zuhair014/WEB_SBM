@@ -113,20 +113,28 @@
 
         <div class="lokasi-card">
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18..."
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.1724499881134!2d103.58241079999999!3d-1.6457877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e25872e10336121%3A0xdaaa9fc1e5145b76!2sSate%20Madura%20Cak%20Marzuki!5e0!3m2!1sid!2sid!4v1779492200463"
                 allowfullscreen=""
                 loading="lazy">
             </iframe>
 
-            <h3>Sate Madura Jambi</h3>
-            <p>Jl. Pattimura No. 21 Kota Jambi</p>
+            <h3>Sate Madura Cak Marzuki</h3>
+            <p>Jl. Sk. Rd. Syahbudin No.36, Mayang Mangurai, Kec. Kota Baru, Kota Jambi</p>
         </div>
 
         <div class="lokasi-card">
-            <img src="assets/img/lokasi.jpg">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d249.2652271995871!2d103.5776760370307!3d-1.609801104035303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sid!4v1779493113195!5m2!1sen!2sid" 
+                width="600" 
+                height="450" 
+                style="border:0;" 
+                allowfullscreen="" 
+                loading="lazy" 
+                referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
 
-            <h3>Cabang Kota Baru</h3>
-            <p>Jl. H. Agus Salim Kota Jambi</p>
+            <h3>Cabang Telanai</h3>
+            <p>Jl jenral abdul thalib, simpang karya, Kec. Telanaipura, Kota Jambi</p>
         </div>
 
     </div>
