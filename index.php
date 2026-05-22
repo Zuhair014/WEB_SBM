@@ -133,6 +133,96 @@
 
 </section>
 
+<!-- ARTIKEL -->
+<section class="artikel" id="artikel">
+
+    <h2>Artikel Kuliner</h2>
+
+    <div class="artikel-container">
+
+        <!-- Artikel 1 -->
+        <div class="artikel-card">
+
+            <img src="assets/img/sate1.jpg" alt="">
+
+            <div class="artikel-content">
+                <span class="artikel-date">
+                    <i class="fa-regular fa-calendar"></i>
+                    12 Mei 2026
+                </span>
+
+                <h3>Rahasia Bumbu Kacang Khas Sate Madura</h3>
+
+                <p>
+                    Bumbu kacang khas Madura memiliki cita rasa gurih,
+                    manis, dan sedikit smoky yang membuat sate semakin lezat.
+                </p>
+
+                <a href="#" class="btn-artikel">
+                    Baca Selengkapnya
+                </a>
+            </div>
+
+        </div>
+
+        <!-- Artikel 2 -->
+        <div class="artikel-card">
+
+            <img src="assets/img/sate2.jpg" alt="">
+
+            <div class="artikel-content">
+
+                <span class="artikel-date">
+                    <i class="fa-regular fa-calendar"></i>
+                    15 Mei 2026
+                </span>
+
+                <h3>Tips Membakar Sate Agar Tidak Gosong</h3>
+
+                <p>
+                    Teknik membakar sate yang tepat dapat menghasilkan
+                    aroma khas dan tekstur daging yang empuk.
+                </p>
+
+                <a href="#" class="btn-artikel">
+                    Baca Selengkapnya
+                </a>
+
+            </div>
+
+        </div>
+
+        <!-- Artikel 3 -->
+        <div class="artikel-card">
+
+            <img src="assets/img/sate3.jpg" alt="">
+
+            <div class="artikel-content">
+
+                <span class="artikel-date">
+                    <i class="fa-regular fa-calendar"></i>
+                    20 Mei 2026
+                </span>
+
+                <h3>Mengapa Sate Madura Sangat Populer?</h3>
+
+                <p>
+                    Sate Madura dikenal karena perpaduan bumbu autentik,
+                    kecap manis, dan aroma bakaran arang yang khas.
+                </p>
+
+                <a href="#" class="btn-artikel">
+                    Baca Selengkapnya
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
 <!-- TESTIMONI -->
 <section class="testimoni">
 

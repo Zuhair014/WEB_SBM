@@ -9,6 +9,7 @@
         <li><a href="#profil">Profil</a></li>
         <li><a href="#menu">Menu</a></li>
         <li><a href="#lokasi">Lokasi</a></li>
+        <li><a href="#artikel">Artikel</a></li>
         <li><a href="#review">Review</a></li>
         <li><a href="#contact">Hubungi Kami</a></li>
     </ul>
