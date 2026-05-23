@@ -29,3 +29,16 @@ window.addEventListener("scroll", () => {
     });
 
 });
+
+// FLOATING WA EFFECT
+const floatingWA = document.querySelector(".floating-wa");
+
+window.addEventListener("scroll", function(){
+
+    if(window.scrollY > 100){
+        floatingWA.style.bottom = "25px";
+    } else {
+        floatingWA.style.bottom = "20px";
+    }
+
+});

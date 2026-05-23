@@ -25,7 +25,7 @@
 </div>
 
 <!-- HERO -->
-<section class="hero" id="profil">
+<section class="hero" id="beranda">
     <div class="hero-text">
         <h1>Sate Madura Legendaris dengan Cita Rasa Autentik</h1>
         <p>
@@ -46,7 +46,7 @@
 
 <!-- MENU -->
 <section class="menu-section" id="menu">
-    <h2>Menu Favorit</h2>
+    <h2>Menu</h2>
 
     <div class="menu-container">
 
@@ -64,21 +64,14 @@
             <a href="#" class="btn-menu">Pesan</a>
         </div>
 
-        <div class="menu-card">
-            <img src="assets/img/sate3.jpg">
-            <h3>Sate Kulit</h3>
-            <p>Rp 20.000</p>
-            <a href="#" class="btn-menu">Pesan</a>
-        </div>
-
     </div>
 </section>
 
 <!-- ABOUT -->
-<section class="about" id="review">
+<section class="about" id="tentang-kami">
 
     <div class="about-image">
-        <img src="assets/img/sate2.jpg">
+        <img src="assets/img/hero.jpg">
     </div>
 
     <div class="about-text">
@@ -90,15 +83,11 @@
         </p>
 
         <div class="social-btn">
-            <a href="#" class="wa">
+            <a href="https://wa.me/6281234567890" class="wa" target="_blank">
                 <i class="fa-brands fa-whatsapp"></i>
                 WhatsApp
             </a>
 
-            <a href="#" class="ig">
-                <i class="fa-brands fa-instagram"></i>
-                Instagram
-            </a>
         </div>
     </div>
 
@@ -125,9 +114,6 @@
         <div class="lokasi-card">
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d249.2652271995871!2d103.5776760370307!3d-1.609801104035303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sid!4v1779493113195!5m2!1sen!2sid" 
-                width="600" 
-                height="450" 
-                style="border:0;" 
                 allowfullscreen="" 
                 loading="lazy" 
                 referrerpolicy="no-referrer-when-downgrade">
@@ -144,7 +130,7 @@
 <!-- ARTIKEL -->
 <section class="artikel" id="artikel">
 
-    <h2>Artikel Kuliner</h2>
+    <h2>Artikel</h2>
 
     <div class="artikel-container">
 
@@ -232,7 +218,7 @@
 </section>
 
 <!-- TESTIMONI -->
-<section class="testimoni">
+<section class="testimoni" id="testimoni">
 
     <h2>Keunggulan Kami</h2>
 
@@ -268,6 +254,15 @@
     </div>
 
 </section>
+
+<!-- FLOATING WHATSAPP -->
+<a href="https://wa.me/6281234567890"
+   class="floating-wa"
+   target="_blank">
+
+    <i class="fa-brands fa-whatsapp"></i>
+
+</a>
 
 <?php include 'components/footer.php'; ?>
 
